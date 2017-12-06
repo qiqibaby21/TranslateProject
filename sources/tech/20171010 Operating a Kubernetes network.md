@@ -1,4 +1,4 @@
-Operating a Kubernetes network
+JL Translating
 ============================================================
 
 I’ve been working on Kubernetes networking a lot recently. One thing I’ve noticed is, while there’s a reasonable amount written about how to **set up** your Kubernetes network, I haven’t seen much about how to **operate** your network and be confident that it won’t create a lot of production incidents for you down the line.
